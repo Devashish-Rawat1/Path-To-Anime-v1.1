@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Search Anime</title>
+    <link rel="stylesheet" href="/styles/search.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 style="display: inline-flex;">Browse Anime Details</h1>
+        <button class="btn-17" id="goback">
+            <span class="text-container">
+                <span class="text">Back</span>
+            </span>
+        </button>
+
+        <div class="InputContainer">
+            <input placeholder="Enter Anime" id="input" class="input" name="text" type="text">
+        </div>
+        
+        <button id="searchBtn" class="button1">
+            Search Anime
+            <div class="hoverEffect1">
+                <div></div>
+            </div>
+        </button>
+        <div id="searchResults"></div>
+
+        <div id="results" class="results-section"></div>
+    </div>
+    <script src="dataset.js"></script>
+    <script src="/scripts/search.js"></script>
+</body>
+
+</html>
