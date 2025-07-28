@@ -53,7 +53,7 @@ All from a sleek, easy-to-use Chrome extension.
 ## ⚙️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Data Source:** [Jikan API](https://jikan.moe/) / Custom Dataset  
+- **Data Source:** Custom Dataset  
 - **Extension Base:** Chrome Manifest V3  
 
 ---
