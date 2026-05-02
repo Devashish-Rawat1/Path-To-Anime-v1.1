@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   gap: 15px;
   height: 99%;
-  background-color: rgb(241, 241, 242);
+  background-color: rgb(231, 231, 233);
 }
 .container:hover {
   border-radius: 20px;
