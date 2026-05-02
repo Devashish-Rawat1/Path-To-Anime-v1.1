@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Path-To-Anime",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Anime lovers (newbies & vets) find your perfect next watch! Smart filters, streaming links & personalized recommendations.",
   "action": {
     "default_popup": "popup.html",
