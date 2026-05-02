@@ -4205,5 +4205,1148 @@ const animeData = [
     "available_on": {
       "Amazon Prime": "https://www.amazon.com/Perfect-Blub-Satoko-Kon/dp/B000I2J6F8"
     }
+  },
+  {
+    "id": 163,
+    "title": "Samurai Champloo",
+    "synopsis": "Fuu, a young waitress, enlists two wandering swordsmen, the disciplined ronin Jin and the wild, breakdancing Mugen, to find a samurai who smells of sunflowers.",
+    "poster": "/anime_posters/163.jpg",
+    "episodes": 26,
+    "year": 2004,
+    "status": "Finished Airing",
+    "aired": [
+      "20-05-2004",
+      "19-03-2005"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 1100000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Historical",
+      "Samurai"
+    ],
+    "rating": 8.5,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GY5P4MQJY/samurai-champloo",
+      "Funimation": "https://www.funimation.com/shows/samurai-champloo/",
+      "Hulu": "https://www.hulu.com/series/samurai-champloo-76cd2e5a-9fd8-4ffc-917e-8a9b1b3d5ad8"
+    }
+  },
+  {
+    "id": 164,
+    "title": "Trigun",
+    "synopsis": "Vash the Stampede, a legendary gunman with a $$60 billion bounty, wanders a desert planet, spreading pacifism despite destruction following him.",
+    "poster": "/anime_posters/164.jpg",
+    "episodes": 26,
+    "year": 1998,
+    "status": "Finished Airing",
+    "aired": [
+      "02-04-1998",
+      "01-10-1998"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 950000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi",
+      "Western"
+    ],
+    "rating": 8.2,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G6JQ8JX5Y/trigun",
+      "Funimation": "https://www.funimation.com/shows/trigun/"
+    }
+  },
+  {
+    "id": 165,
+    "title": "Akira",
+    "synopsis": "In a dystopian 2019 Neo-Tokyo, biker gang leader Kaneda tries to save his friend Tetsuo, who develops destructive psychic abilities after a government experiment.",
+    "poster": "/anime_posters/165.jpg",
+    "episodes": 1,
+    "year": 1988,
+    "status": "Finished Airing",
+    "aired": [
+      "16-07-1988",
+      "16-07-1988"
+    ],
+    "anime_type": "Movie",
+    "popularity": 1300000,
+    "genres": [
+      "Action",
+      "Horror",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "rating": 8.1,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/movies/akira",
+      "Funimation": "https://www.funimation.com/movies/akira/",
+      "Hulu": "https://www.hulu.com/movie/akira-92f10992-2079-4b2a-9b36-4b41f6c4e3f2",
+      "Netflix": "https://www.netflix.com/title/60003061"
+    }
+  },
+  {
+    "id": 166,
+    "title": "Spirited Away",
+    "synopsis": "Chihiro finds herself in a mysterious spirit world and must work in a bathhouse to free herself and her parents, who have been turned into pigs.",
+    "poster": "/anime_posters/166.png",
+    "episodes": 1,
+    "year": 2001,
+    "status": "Finished Airing",
+    "aired": [
+      "20-07-2001",
+      "20-07-2001"
+    ],
+    "anime_type": "Movie",
+    "popularity": 2000000,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "rating": 8.8,
+    "available_on": {
+      "Netflix": "https://www.netflix.com/title/60023642",
+      "HBO Max": "https://play.hbomax.com/feature/urn:hbo:feature:GYDqWkgK9NMNljgEAAAAC"
+    }
+  },
+  {
+    "id": 167,
+    "title": "Princess Mononoke",
+    "synopsis": "Ashitaka, cursed by a boar demon, travels west and becomes embroiled in a conflict between the forest gods and the humans of Iron Town led by Lady Eboshi.",
+    "poster": "/anime_posters/167.png",
+    "episodes": 1,
+    "year": 1997,
+    "status": "Finished Airing",
+    "aired": [
+      "12-07-1997",
+      "12-07-1997"
+    ],
+    "anime_type": "Movie",
+    "popularity": 1800000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Historical"
+    ],
+    "rating": 8.7,
+    "available_on": {
+      "Netflix": "https://www.netflix.com/title/60023643",
+      "HBO Max": "https://play.hbomax.com/feature/urn:hbo:feature:GX7sQwQcN5MNljgEAAAAD"
+    }
+  },
+  {
+    "id": 168,
+    "title": "Ghost in the Shell",
+    "synopsis": "In 2029, Major Motoko Kusanagi, a cyborg counter‑cyberterrorist, hunts the Puppet Master, a hacker who challenges her understanding of identity and consciousness.",
+    "poster": "/anime_posters/168.jpg",
+    "episodes": 1,
+    "year": 1995,
+    "status": "Finished Airing",
+    "aired": [
+      "18-11-1995",
+      "18-11-1995"
+    ],
+    "anime_type": "Movie",
+    "popularity": 1000000,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "rating": 8.3,
+    "available_on": {
+      "Amazon Prime": "https://www.amazon.com/Ghost-Shell-Mamoru-Oshii/dp/B004W0JJCQ",
+      "Funimation": "https://www.funimation.com/movies/ghost-in-the-shell/"
+    }
+  },
+  {
+    "id": 169,
+    "title": "Ghost in the Shell: Stand Alone Complex",
+    "synopsis": "Major Kusanagi and her Public Security Section 9 team investigate cyber‑crime and political conspiracies in a near‑future Japan, facing the enigmatic Laughing Man.",
+    "poster": "/anime_posters/169.jpg",
+    "episodes": 26,
+    "year": 2002,
+    "status": "Finished Airing",
+    "aired": [
+      "01-10-2002",
+      "01-10-2003"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 750000,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "rating": 8.5,
+    "available_on": {
+      "Funimation": "https://www.funimation.com/shows/ghost-in-the-shell-stand-alone-complex/",
+      "Hulu": "https://www.hulu.com/series/ghost-in-the-shell-stand-alone-complex-0a0d5b96-51bf-4a77-aac1-79dcc22e8d27",
+      "Netflix": "https://www.netflix.com/title/70205011"
+    }
+  },
+  {
+    "id": 170,
+    "title": "Tengen Toppa Gurren Lagann",
+    "synopsis": "Simon, a timid digger, and his hot‑blooded friend Kamina break free from their underground village and lead humanity's rebellion against the tyrannial Spiral King using the mecha Lagann.",
+    "poster": "/anime_posters/170.jpg",
+    "episodes": 27,
+    "year": 2007,
+    "status": "Finished Airing",
+    "aired": [
+      "01-04-2007",
+      "30-09-2007"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 1400000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "rating": 8.6,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GYGG2GV96/gurren-lagann",
+      "Funimation": "https://www.funimation.com/shows/gurren-lagann/",
+      "Hulu": "https://www.hulu.com/series/gurren-lagann-3a6f4d60-5bad-406b-a55c-8b44e5e0d8f2",
+      "Netflix": "https://www.netflix.com/title/70204973"
+    }
+  },
+  {
+    "id": 171,
+    "title": "Kill la Kill",
+    "synopsis": "Ryuuko Matoi transfers to Honnouji Academy, a school ruled by student council president Satsuki Kiryuuin and powered by special uniforms called Goku Uniforms, seeking her father's killer.",
+    "poster": "/anime_posters/171.jpg",
+    "episodes": 24,
+    "year": 2013,
+    "status": "Finished Airing",
+    "aired": [
+      "04-10-2013",
+      "28-03-2014"
+    ],
+    "anime_type": "Original",
+    "popularity": 1100000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Super Power"
+    ],
+    "rating": 8.0,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GR751KNZY/kill-la-kill",
+      "Funimation": "https://www.funimation.com/shows/kill-la-kill/",
+      "Hulu": "https://www.hulu.com/series/kill-la-kill-0a3a2e36-7b5b-4e18-8ba0-8b5c464c6a1f"
+    }
+  },
+  {
+    "id": 172,
+    "title": "FLCL",
+    "synopsis": "Naota's ordinary life is turned upside down when Haruko Haruhara, a manic, guitar‑wielding alien, runs him over and his forehead becomes a portal for giant robots.",
+    "poster": "/anime_posters/172.jpg",
+    "episodes": 6,
+    "year": 2000,
+    "status": "Finished Airing",
+    "aired": [
+      "26-04-2000",
+      "16-03-2001"
+    ],
+    "anime_type": "Original",
+    "popularity": 700000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "rating": 8.1,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G49V41J56/flcl",
+      "Funimation": "https://www.funimation.com/shows/flcl/"
+    }
+  },
+  {
+    "id": 173,
+    "title": "Baccano!",
+    "synopsis": "A collection of seemingly unrelated stories—alchemists, gangsters, and immortals—collide aboard the transcontinental train the Flying Pussyfoot in 1930s America.",
+    "poster": "/anime_posters/173.jpg",
+    "episodes": 13,
+    "year": 2007,
+    "status": "Finished Airing",
+    "aired": [
+      "27-07-2007",
+      "02-11-2007"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 650000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Historical",
+      "Mystery",
+      "Supernatural"
+    ],
+    "rating": 8.4,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GDKHZEP4Y/baccano",
+      "Funimation": "https://www.funimation.com/shows/baccano/"
+    }
+  },
+  {
+    "id": 174,
+    "title": "Durarara!!",
+    "synopsis": "In Ikebukuro, a district of Tokyo, the stories of a headless rider on a black motorcycle, a volatile information broker, and a boy seeking the supernatural intertwine.",
+    "poster": "/anime_posters/174.jpg",
+    "episodes": 24,
+    "year": 2010,
+    "status": "Finished Airing",
+    "aired": [
+      "08-01-2010",
+      "25-06-2010"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 900000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "rating": 8.1,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GYGG1JE9Y/durarara",
+      "Funimation": "https://www.funimation.com/shows/durarara/",
+      "Hulu": "https://www.hulu.com/series/durarara-3f8c2c59-0151-41e1-ba71-88e8e3c4b3f5"
+    }
+  },
+  {
+    "id": 175,
+    "title": "Angel Beats!",
+    "synopsis": "Otonashi wakes up in an afterlife high school and joins the SSS, a rebel group fighting against the student council president, an angel named Kanade Tachibana.",
+    "poster": "/anime_posters/175.jpg",
+    "episodes": 13,
+    "year": 2010,
+    "status": "Finished Airing",
+    "aired": [
+      "03-04-2010",
+      "26-06-2010"
+    ],
+    "anime_type": "Original",
+    "popularity": 1200000,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Supernatural"
+    ],
+    "rating": 8.0,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GYGG1JE9Y/angel-beats",
+      "Funimation": "https://www.funimation.com/shows/angel-beats/",
+      "Netflix": "https://www.netflix.com/title/70204983"
+    }
+  },
+  {
+    "id": 176,
+    "title": "Toradora!",
+    "synopsis": "Ryuji Takasu, a gentle boy with a delinquent's face, and Taiga Aisaka, a tiny yet fierce girl, team up to help each other confess to their respective crushes.",
+    "poster": "/anime_posters/176.jpg",
+    "episodes": 25,
+    "year": 2008,
+    "status": "Finished Airing",
+    "aired": [
+      "02-10-2008",
+      "26-03-2009"
+    ],
+    "anime_type": "Light Novel",
+    "popularity": 1000000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "rating": 8.3,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G63K8G9VY/toradora",
+      "Netflix": "https://www.netflix.com/title/80049276"
+    }
+  },
+  {
+    "id": 177,
+    "title": "Clannad",
+    "synopsis": "Tomoya Okazaki, a delinquent with a distant father, meets the strange and fragile Nagisa Furukawa, and together they revive the school drama club, gradually discovering the meaning of family.",
+    "poster": "/anime_posters/177.jpg",
+    "episodes": 23,
+    "year": 2007,
+    "status": "Finished Airing",
+    "aired": [
+      "05-10-2007",
+      "21-03-2008"
+    ],
+    "anime_type": "Visual Novel",
+    "popularity": 850000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "rating": 8.2,
+    "available_on": {
+      "HIDIVE": "https://www.hidive.com/tv/clannad",
+      "Crunchyroll": "https://www.crunchyroll.com/series/GR751KNZY/clannad"
+    }
+  },
+  {
+    "id": 178,
+    "title": "Hyouka",
+    "synopsis": "At the request of his older sister, listless student Houtarou Oreki joins the Kamiyama High School Classic Literature Club, where he and his curious clubmates solve everyday mysteries.",
+    "poster": "/anime_posters/178.jpg",
+    "episodes": 22,
+    "year": 2012,
+    "status": "Finished Airing",
+    "aired": [
+      "23-04-2012",
+      "17-09-2012"
+    ],
+    "anime_type": "Light Novel",
+    "popularity": 750000,
+    "genres": [
+      "Mystery",
+      "Slice of Life"
+    ],
+    "rating": 8.2,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G6P8QK3JY/hyouka",
+      "Funimation": "https://www.funimation.com/shows/hyouka/"
+    }
+  },
+  {
+    "id": 179,
+    "title": "Nichijou",
+    "synopsis": "The surreal, hilarious everyday lives of high school girls Yuuko, Mio, and Mai, a child genius professor and her robot caretaker Nano, and a talking black cat named Sakamoto.",
+    "poster": "/anime_posters/179.jpg",
+    "episodes": 26,
+    "year": 2011,
+    "status": "Finished Airing",
+    "aired": [
+      "03-04-2011",
+      "25-09-2011"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 800000,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "rating": 8.4,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GY5VKXJ4Y/nichijou",
+      "Funimation": "https://www.funimation.com/shows/nichijou/"
+    }
+  },
+  {
+    "id": 180,
+    "title": "Lucky Star",
+    "synopsis": "Konata Izumi, an otaku girl, and her friends navigate high school life with a heavy dose of anime, gaming, and random chatter.",
+    "poster": "/anime_posters/180.jpg",
+    "episodes": 24,
+    "year": 2007,
+    "status": "Finished Airing",
+    "aired": [
+      "08-04-2007",
+      "16-09-2007"
+    ],
+    "anime_type": "Shonen",
+    "popularity": 700000,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "rating": 7.7,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GR751KNZY/lucky-star",
+      "Funimation": "https://www.funimation.com/shows/lucky-star/"
+    }
+  },
+  {
+    "id": 181,
+    "title": "The Melancholy of Haruhi Suzumiya",
+    "synopsis": "Haruhi Suzumiya, an eccentric girl obsessed with the supernatural, unknowingly gathers a club of actual aliens, time travellers, and espers to entertain her.",
+    "poster": "/anime_posters/181.jpg",
+    "episodes": 14,
+    "year": 2006,
+    "status": "Finished Airing",
+    "aired": [
+      "03-04-2006",
+      "03-07-2006"
+    ],
+    "anime_type": "Light Novel",
+    "popularity": 1000000,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "rating": 7.8,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GYGG1JE9Y/the-melancholy-of-haruhi-suzumiya",
+      "Funimation": "https://www.funimation.com/shows/the-melancholy-of-haruhi-suzumiya/"
+    }
+  },
+  {
+    "id": 182,
+    "title": "K-On!",
+    "synopsis": "Four high school girls—Yui, Mio, Ritsu, and Mugi—revive the light music club, forming a band despite Yui's complete lack of musical experience.",
+    "poster": "/anime_posters/182.png",
+    "episodes": 13,
+    "year": 2009,
+    "status": "Finished Airing",
+    "aired": [
+      "03-04-2009",
+      "26-06-2009"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 900000,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Slice of Life"
+    ],
+    "rating": 7.9,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GXJHM3KJY/k-on",
+      "HIDIVE": "https://www.hidive.com/tv/k-on"
+    }
+  },
+  {
+    "id": 183,
+    "title": "A Silent Voice",
+    "synopsis": "Years after bullying a deaf classmate, Shoya Ishida seeks redemption and reconnects with her, hoping to make amends and find forgiveness.",
+    "poster": "/anime_posters/183.jpg",
+    "episodes": 1,
+    "year": 2016,
+    "status": "Finished Airing",
+    "aired": [
+      "17-09-2016",
+      "17-09-2016"
+    ],
+    "anime_type": "Movie",
+    "popularity": 1600000,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "rating": 8.9,
+    "available_on": {
+      "Netflix": "https://www.netflix.com/title/80171362",
+      "Amazon Prime": "https://www.amazon.com/Silent-Voice-Saori-Hayami/dp/B01M5HY9ZG"
+    }
+  },
+  {
+    "id": 184,
+    "title": "Your Name.",
+    "synopsis": "Two teenagers, Mitsuha and Taki, mysteriously swap bodies and must navigate each other's lives while searching for a connection that transcends time.",
+    "poster": "/anime_posters/184.png",
+    "episodes": 1,
+    "year": 2016,
+    "status": "Finished Airing",
+    "aired": [
+      "26-08-2016",
+      "26-08-2016"
+    ],
+    "anime_type": "Movie",
+    "popularity": 2200000,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "rating": 8.9,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/movies/your-name",
+      "Netflix": "https://www.netflix.com/title/80161371"
+    }
+  },
+  {
+    "id": 185,
+    "title": "Weathering with You",
+    "synopsis": "Hodaka Morishima runs away to Tokyo and meets Hina Amano, a girl who can temporarily clear the sky, but using her power comes with a heavy price.",
+    "poster": "/anime_posters/185.jpg",
+    "episodes": 1,
+    "year": 2019,
+    "status": "Finished Airing",
+    "aired": [
+      "19-07-2019",
+      "19-07-2019"
+    ],
+    "anime_type": "Movie",
+    "popularity": 1200000,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "rating": 8.3,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/movies/weathering-with-you",
+      "HBO Max": "https://play.hbomax.com/feature/urn:hbo:feature:GX9s2wAjq9MNljgEAAAEV"
+    }
+  },
+  {
+    "id": 186,
+    "title": "5 Centimeters per Second",
+    "synopsis": "A story told in three interconnected segments, following Takaki Tohno through his life as cruel winters, cold technology, and distance separate him from his loved ones.",
+    "poster": "/anime_posters/186.jpg",
+    "episodes": 1,
+    "year": 2007,
+    "status": "Finished Airing",
+    "aired": [
+      "03-03-2007",
+      "03-03-2007"
+    ],
+    "anime_type": "Movie",
+    "popularity": 800000,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating": 7.8,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/movies/5-centimeters-per-second",
+      "Netflix": "https://www.netflix.com/title/70204974"
+    }
+  },
+  {
+    "id": 187,
+    "title": "Grave of the Fireflies",
+    "synopsis": "In the final months of World War II, a teenager and his little sister struggle to survive in Japan after losing their mother and being separated from their father.",
+    "poster": "/anime_posters/187.jpg",
+    "episodes": 1,
+    "year": 1988,
+    "status": "Finished Airing",
+    "aired": [
+      "16-04-1988",
+      "16-04-1988"
+    ],
+    "anime_type": "Movie",
+    "popularity": 900000,
+    "genres": [
+      "Drama",
+      "Historical"
+    ],
+    "rating": 8.5,
+    "available_on": {
+      "Netflix": "https://www.netflix.com/title/60023645",
+      "HBO Max": "https://play.hbomax.com/feature/urn:hbo:feature:GX0U9fwp9MNljgEAAAAC"
+    }
+  },
+  {
+    "id": 188,
+    "title": "Howl's Moving Castle",
+    "synopsis": "Sophie, a young hat maker, is cursed into an old woman by a witch and seeks refuge in the bizarre moving castle of the wizard Howl, becoming embroiled in his magical war.",
+    "poster": "/anime_posters/188.jpg",
+    "episodes": 1,
+    "year": 2004,
+    "status": "Finished Airing",
+    "aired": [
+      "20-11-2004",
+      "20-11-2004"
+    ],
+    "anime_type": "Movie",
+    "popularity": 1700000,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "rating": 8.6,
+    "available_on": {
+      "HBO Max": "https://play.hbomax.com/feature/urn:hbo:feature:GX0RxhwJ9MNljgEAAAAB",
+      "Netflix": "https://www.netflix.com/title/60023644"
+    }
+  },
+  {
+    "id": 189,
+    "title": "My Neighbor Totoro",
+    "synopsis": "Two young sisters move to the countryside to be near their ailing mother and discover friendly forest spirits, including the giant cuddly Totoro.",
+    "poster": "/anime_posters/189.jpg",
+    "episodes": 1,
+    "year": 1988,
+    "status": "Finished Airing",
+    "aired": [
+      "16-04-1988",
+      "16-04-1988"
+    ],
+    "anime_type": "Movie",
+    "popularity": 1500000,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "rating": 8.3,
+    "available_on": {
+      "HBO Max": "https://play.hbomax.com/feature/urn:hbo:feature:GX0RoIAJ9MNljgEAAAAB",
+      "Netflix": "https://www.netflix.com/title/60023647"
+    }
+  },
+  {
+    "id": 190,
+    "title": "Sword Art Online Alternative: Gun Gale Online",
+    "synopsis": "Karen Kohiruimaki, a tall, insecure university student, dives into the VR shooter Gun Gale Online as a tiny, fast avatar named LLENN and becomes a legendary player.",
+    "poster": "/anime_posters/190.jpg",
+    "episodes": 12,
+    "year": 2018,
+    "status": "Finished Airing",
+    "aired": [
+      "08-04-2018",
+      "01-07-2018"
+    ],
+    "anime_type": "Light Novel",
+    "popularity": 600000,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Game",
+      "Sci-Fi"
+    ],
+    "rating": 7.3,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GR751KNZY/sword-art-online-alternative-gun-gale-online",
+      "Funimation": "https://www.funimation.com/shows/sword-art-online-alternative-gun-gale-online/"
+    }
+  },
+  {
+    "id": 191,
+    "title": "Fate/Zero",
+    "synopsis": "Seven mages summon legendary heroes from history to fight in a battle royale for the Holy Grail, a wish‑granting device, during the Fourth Holy Grail War.",
+    "poster": "/anime_posters/191.jpg",
+    "episodes": 13,
+    "year": 2011,
+    "status": "Finished Airing",
+    "aired": [
+      "01-10-2011",
+      "24-12-2011"
+    ],
+    "anime_type": "Light Novel",
+    "popularity": 1100000,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural",
+      "Thriller"
+    ],
+    "rating": 8.4,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GR751KNZY/fatezero",
+      "Netflix": "https://www.netflix.com/title/80049978"
+    }
+  },
+  {
+    "id": 192,
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "synopsis": "Shirou Emiya, a novice mage, becomes a Master in the Fifth Holy Grail War and fights alongside his summoned Servant, Saber, to stop a world‑threatening disaster.",
+    "poster": "/anime_posters/192.jpg",
+    "episodes": 26,
+    "year": 2014,
+    "status": "Finished Airing",
+    "aired": [
+      "05-10-2014",
+      "27-12-2015"
+    ],
+    "anime_type": "Visual Novel",
+    "popularity": 900000,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "rating": 8.2,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GR751KNZY/fatestay-night-unlimited-blade-works",
+      "Netflix": "https://www.netflix.com/title/80049375"
+    }
+  },
+  {
+    "id": 193,
+    "title": "Kaguya-sama: Love is War",
+    "synopsis": "Miyuki Shirogane and Kaguya Shinomiya, the brilliant student council president and vice president, engage in elaborate mind games to trick the other into confessing their love first.",
+    "poster": "/anime_posters/193.jpg",
+    "episodes": 12,
+    "year": 2019,
+    "status": "Finished Airing",
+    "aired": [
+      "12-01-2019",
+      "30-03-2019"
+    ],
+    "anime_type": "Seinen",
+    "popularity": 1300000,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "School",
+      "Psychological"
+    ],
+    "rating": 8.4,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G6P5WJX4Y/kaguya-sama-love-is-war",
+      "Funimation": "https://www.funimation.com/shows/kaguya-sama-love-is-war/"
+    }
+  },
+  {
+    "id": 194,
+    "title": "Re:Creators",
+    "synopsis": "Fictional characters from various media are brought into the real world and must confront their creators to stop a world‑ending plot orchestrated by a mysterious military uniform princess.",
+    "poster": "/anime_posters/194.jpeg",
+    "episodes": 22,
+    "year": 2017,
+    "status": "Finished Airing",
+    "aired": [
+      "08-04-2017",
+      "16-09-2017"
+    ],
+    "anime_type": "Original",
+    "popularity": 500000,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "rating": 7.5,
+    "available_on": {
+      "Amazon Prime": "https://www.amazon.com/Re-Creators-Season-1/dp/B07YCLT3HJ"
+    }
+  },
+  {
+    "id": 195,
+    "title": "Akudama Drive",
+    "synopsis": "In a dystopian Kansai, a group of high‑level criminals known as Akudama are recruited by a mysterious black cat to break a prisoner out of the Akudama Correctional Facility.",
+    "poster": "/anime_posters/195.jpg",
+    "episodes": 12,
+    "year": 2020,
+    "status": "Finished Airing",
+    "aired": [
+      "08-10-2020",
+      "24-12-2020"
+    ],
+    "anime_type": "Original",
+    "popularity": 450000,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating": 7.8,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GY5VKXJ4Y/akudama-drive",
+      "Funimation": "https://www.funimation.com/shows/akudama-drive/"
+    }
+  },
+  {
+    "id": 196,
+    "title": "Vivy: Fluorite Eye's Song",
+    "synopsis": "The first autonomous AI, Vivy, is tasked with preventing a future war between AIs and humans by altering key historical events, all while discovering her own mission of making people happy through song.",
+    "poster": "/anime_posters/196.jpg",
+    "episodes": 13,
+    "year": 2021,
+    "status": "Finished Airing",
+    "aired": [
+      "03-04-2021",
+      "19-06-2021"
+    ],
+    "anime_type": "Original",
+    "popularity": 550000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Music"
+    ],
+    "rating": 8.4,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/G49VJE9JY/vivy-fluorite-eyes-song",
+      "Funimation": "https://www.funimation.com/shows/vivy-fluorite-eyes-song/"
+    }
+  },
+  {
+    "id": 197,
+    "title": "Great Pretender",
+    "synopsis": "Makoto Edamura, a small‑time con artist, gets pulled into the world of international high‑stakes fraud by the charming Laurent Thierry, traveling the globe for audacious heists.",
+    "poster": "/anime_posters/197.jpg",
+    "episodes": 23,
+    "year": 2020,
+    "status": "Finished Airing",
+    "aired": [
+      "02-07-2020",
+      "16-12-2020"
+    ],
+    "anime_type": "Original",
+    "popularity": 500000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "rating": 8.3,
+    "available_on": {
+      "Netflix": "https://www.netflix.com/title/81220408"
+    }
+  },
+  {
+    "id": 198,
+    "title": "Megalobox",
+    "synopsis": "In a near‑future city, Junk Dog, an underground fighter, enters the world of Megaloboxing—a sport where fighters wear mechanical exoskeletons—to challenge the champion Yuri.",
+    "poster": "/anime_posters/198.jpg",
+    "episodes": 13,
+    "year": 2018,
+    "status": "Finished Airing",
+    "aired": [
+      "06-04-2018",
+      "29-06-2018"
+    ],
+    "anime_type": "Original",
+    "popularity": 480000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Sports"
+    ],
+    "rating": 7.9,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GYGG1JE9Y/megalobox",
+      "Funimation": "https://www.funimation.com/shows/megalobox/"
+    }
+  },
+  {
+    "id": 199,
+    "title": "Carole & Tuesday",
+    "synopsis": "On a colonized Mars, a runaway heiress and an orphaned refugee become a musical duo, navigating the AI‑dominated music industry with their raw, human‑crafted songs.",
+    "poster": "/anime_posters/199.jpg",
+    "episodes": 24,
+    "year": 2019,
+    "status": "Finished Airing",
+    "aired": [
+      "10-04-2019",
+      "02-10-2019"
+    ],
+    "anime_type": "Original",
+    "popularity": 450000,
+    "genres": [
+      "Drama",
+      "Music",
+      "Sci-Fi"
+    ],
+    "rating": 8.1,
+    "available_on": {
+      "Netflix": "https://www.netflix.com/title/80220308"
+    }
+  },
+  {
+    "id": 200,
+    "title": "Death Parade",
+    "synopsis": "After death, souls are sent to the mysterious Quindecim bar where Decim, an arbiter, forces them to play deadly games to judge their fates.",
+    "poster": "/anime_posters/200.jpg",
+    "episodes": 12,
+    "year": 2015,
+    "status": "Finished Airing",
+    "aired": [
+      "10-01-2015",
+      "28-03-2015"
+    ],
+    "anime_type": "Original",
+    "popularity": 800000,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "rating": 8.2,
+    "available_on": {
+      "Crunchyroll": "https://www.crunchyroll.com/series/GYGG1JE9Y/death-parade",
+      "Funimation": "https://www.funimation.com/shows/death-parade/"
+    }
+  },
+  {
+  "id": 201,
+  "title": "Jujutsu Kaisen Season 3",
+  "synopsis": "Following the devastating Shibuya Incident, Yuji Itadori and his allies must participate in the Culling Game—a deadly battle royale created by the ancient sorcerer Kenjaku to force sorcerers to fight each other inside designated colonies across Japan.",
+  "poster": "/anime_posters/163.jpg",
+  "episodes": 12,
+  "year": 2026,
+  "status": "Currently Airing",
+  "aired": [
+    "08-01-2026",
+    "26-03-2026"
+  ],
+  "anime_type": "Shonen",
+  "popularity": 1897654,
+  "genres": [
+    "Action",
+    "Demons",
+    "Horror",
+    "Supernatural",
+    "School"
+  ],
+  "rating": 8.7,
+  "available_on": {
+    "Crunchyroll": "https://www.crunchyroll.com/series/GRDV0019R/jujutsu-kaisen"
   }
+},
+  {
+    "id": 202,
+    "title": "Pokemon - Season 2: Adventures in the Orange Islands",
+    "synopsis": "Ash Ketchum travels through the Orange Archipelago to collect Gym Badges and compete in the Orange League, encountering new Pokémon and challenges.",
+    "poster": "/anime_posters/202.jpg",
+    "episodes": 36,
+    "year": 1998,
+    "status": "Finished Airing",
+    "aired": [
+      "28-01-1998",
+      "22-01-1999"
+    ],
+    "anime_type": "Adventure",
+    "popularity": 3200000,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "rating": 7.5,
+    "available_on": {
+      "Netflix": "https://www.netflix.com/title/70204970",
+      "Pokémon TV": "https://www.pokemon.com/us/pokemon-episodes/"
+    }
+  },
+  {
+  "id": 203,
+  "title": "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
+  "synopsis": "After a series of mighty clashes with Upper Rank Demons, the Ubuyashiki clan prepares for one last battle with the hellish forces of Muzan Kibutsuji. In order to finally defeat the Demon leader once and for all, the clan devises a training camp for the Demon Slayer Corps, one led by the remaining Hashira—the most elite warriors in the organization.",
+  "poster": "/anime_posters/164.jpg",
+  "episodes": 8,
+  "year": 2024,
+  "status": "Finished Airing",
+  "aired": [
+    "12-05-2024",
+    "30-06-2024"
+  ],
+  "anime_type": "Shonen",
+  "popularity": 771978,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Demons",
+    "Historical",
+    "Supernatural"
+  ],
+  "rating": 8.0,
+  "available_on": {
+    "Crunchyroll": "https://www.crunchyroll.com/series/GY5P48XEY/demon-slayer-kimetsu-no-yaiba",
+    "Netflix": "https://www.netflix.com/title/81091393",
+    "Hulu": "https://www.hulu.com/series/demon-slayer-kimetsu-no-yaiba-5b5b5b5b-5b5b-5b5b-5b5b-5b5b5b5b5b5b"
+  }
+ },
+ {
+  "id": 204,
+  "title": "Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle",
+  "synopsis": "The first film in an epic trilogy adapting the final arc of the manga. The Demon Slayer Corps finds themselves trapped within Muzan Kibutsuji's labyrinthine Infinity Castle, where they must face the remaining Upper Rank demons in a series of desperate battles that will determine the fate of humanity.",
+  "poster": "/anime_posters/165.jpg",
+  "episodes": 1,
+  "year": 2025,
+  "status": "Finished Airing",
+  "aired": [
+    "18-07-2025",
+    "18-07-2025"
+  ],
+  "anime_type": "Movie",
+  "popularity": 1456789,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Demons",
+    "Historical",
+    "Supernatural"
+  ],
+  "rating": 8.7,
+  "available_on": {
+    "Crunchyroll": "https://www.crunchyroll.com/movies/demon-slayer-kimetsu-no-yaiba-infinity-castle"
+  }
+},
+{
+  "id": 205,
+  "title": "One Punch Man Season 3",
+  "synopsis": "The Hero Association mobilizes to battle the rising forces of the Monster Association. As the clash between heroes and monsters escalates into an all-out war, Saitama continues his search for a worthy opponent who can withstand his devastating single punch.",
+  "poster": "/anime_posters/166.jpg",
+  "episodes": 12,
+  "year": 2025,
+  "status": "Finished Airing",
+  "aired": [
+    "12-10-2025",
+    "29-12-2025"
+  ],
+  "anime_type": "Action",
+  "popularity": 987654,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Parody",
+    "Superhero",
+    "Superpower"
+  ],
+  "rating": 4.6,
+  "available_on": {
+    "Hulu": "https://www.hulu.com/series/one-punch-man-5b5b5b5b-5b5b-5b5b-5b5b-5b5b5b5b5b5b",
+    "Crunchyroll": "https://www.crunchyroll.com/series/GY5P48XEY/one-punch-man",
+    "Netflix": "https://www.netflix.com/title/80097571"
+  }
+},
+{
+  "id": 206,
+  "title": "My Hero Academia Season 7",
+  "synopsis": "Following an all-out battle with the Paranormal Liberation Front, the people of Japan struggle to continue placing faith in their heroes. To combat the combined power of Tomura Shigaraki and All For One, All Might calls for his ally from the West—the strongest woman on the planet, Star and Stripe.",
+  "poster": "/anime_posters/167.jpg",
+  "episodes": 21,
+  "year": 2024,
+  "status": "Finished Airing",
+  "aired": [
+    "04-05-2024",
+    "12-10-2024"
+  ],
+  "anime_type": "Shonen",
+  "popularity": 349727,
+  "genres": [
+    "Action",
+    "Comedy",
+    "School",
+    "Super Power"
+  ],
+  "rating": 8.1,
+  "available_on": {
+    "Crunchyroll": "https://www.crunchyroll.com/series/G6NQ5DWZ6/my-hero-academia",
+    "Funimation": "https://www.funimation.com/shows/my-hero-academia/",
+    "Hulu": "https://www.hulu.com/series/my-hero-academia-9a9a9a9a-9a9a-9a9a-9a9a-9a9a9a9a9a9a"
+  }
+}
 ]
