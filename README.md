@@ -2,7 +2,7 @@
 
 **A Chrome Extension for Anime Discovery, Recommendations, and Watchlist Management**
 
-Version 1.1 | Chrome Manifest V3 | Available on the Chrome Web Store
+Version 1.2 | Chrome Manifest V3 | Available on the Chrome Web Store
 
 [Install on Chrome Web Store](https://chromewebstore.google.com/detail/path-to-anime/hmkdpjckcgcmhbdpiimkaddjhhfcgbpg?hl=en-US&utm_source=ext_sidebar)
 
